@@ -1,0 +1,39 @@
+{
+    "visibility": 10000,
+    "timezone": 7200,
+    "main": {
+        "temp": 10.4,
+        "temp_min": 9.57,
+        "humidity": 89,
+        "pressure": 1006,
+        "feels_like": 9.82,
+        "temp_max": 11.49
+    },
+    "clouds": {"all": 20},
+    "sys": {
+        "country": "DE",
+        "sunrise": 1682222940,
+        "sunset": 1682273947,
+        "id": 1268,
+        "type": 1
+    },
+    "dt": 1682285947,
+    "coord": {
+        "lon": 11.0384,
+        "lat": 49.4358
+    },
+    "weather": [{
+        "icon": "02n",
+        "description": "few clouds",
+        "main": "Clouds",
+        "id": 801
+    }],
+    "name": "Nürnberg",
+    "cod": 200,
+    "id": 0,
+    "base": "stations",
+    "wind": {
+        "deg": 140,
+        "speed": 2.06
+    }
+}
